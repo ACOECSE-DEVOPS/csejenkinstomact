@@ -8,6 +8,6 @@ public class MInecontroller {
 
 	@GetMapping("/home")
 	public String disp() {
-		 return "I MA DURGA PRASAD FROM FINLA YEAR CSE";
+		 return "display";
 	}
 }
